@@ -1,3 +1,5 @@
 [Head[[:space:]]First][[:space:]]Bryan[[:space:]]Basham,[[:space:]]Kathy[[:space:]]Sierra,[[:space:]]Bert[[:space:]]Bates[[:space:]]-[[:space:]]Head[[:space:]]First[[:space:]]Servlets[[:space:]]and[[:space:]]JSP_[[:space:]]Passing[[:space:]]the[[:space:]]Sun[[:space:]]Certified[[:space:]]Web[[:space:]]Component[[:space:]]Developer[[:space:]]Exam[[:space:]](2008,[[:space:]]O'Reilly[[:space:]]Media).pdf filter=lfs diff=lfs merge=lfs -text
 Gayle[[:space:]]Laakmann[[:space:]]McDowell[[:space:]]-[[:space:]]Cracking[[:space:]]the[[:space:]]Coding[[:space:]]Interview_[[:space:]]189[[:space:]]Programming[[:space:]]Questions[[:space:]]and[[:space:]]Solutions-CareerCup[[:space:]](2015).pdf filter=lfs diff=lfs merge=lfs -text
 Gayle* filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
